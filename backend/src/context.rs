@@ -313,7 +313,7 @@ pub fn init() {
 
 #[inline]
 fn update_loop() {
-    let handle = Handle::new("MapleStoryClass");
+    let handle = Handle::new("Qt51512QWindowIcon");
     let keys = DefaultKeySender {
         keys: Keys::new(handle),
     };
